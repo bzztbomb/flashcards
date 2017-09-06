@@ -1,0 +1,1 @@
+Toy project to learn swift.  I wouldn't bother putting this on Github but I can't deploy to my phone from my laptop anymore because I don't want to upgrade the OS.  So imma use my work machine. Thanks Apple.
